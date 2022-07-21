@@ -40,21 +40,21 @@ A carefully curated list of open source content related to OpenTelemetry.
     - [Case Studies](#case-studies)
   - [Blog By Vendors:](#blog-by-vendors)
   - [Video Tutorials](#video-tutorials)
-    - [OpenTelemetry C++](#opentelemetry-c)
-    - [OpenTelemetry .NET](#opentelemetry-net)
-    - [OpenTelemetry Erlang/Elixir](#opentelemetry-erlangelixir)
-    - [OpenTelemetry Go](#opentelemetry-go)
-    - [OpenTelemetry Java](#opentelemetry-java)
-    - [OpenTelemetry JavaScript](#opentelemetry-javascript)
-      - [By SigNoz:](#by-signoz)
-      - [Others:](#others)
-    - [OpenTelemetry PHP](#opentelemetry-php)
-    - [OpenTelemetry Python](#opentelemetry-python)
-      - [By SigNoz:](#by-signoz-1)
-      - [Others:](#others-1)
-    - [OpenTelemetry Ruby](#opentelemetry-ruby)
-    - [OpenTelemetry Rust](#opentelemetry-rust)
-    - [OpenTelemetry Swift](#opentelemetry-swift)
+    - [1. OpenTelemetry C++](#1-opentelemetry-c)
+    - [2. OpenTelemetry .NET](#2-opentelemetry-net)
+    - [3. OpenTelemetry Erlang/Elixir](#3-opentelemetry-erlangelixir)
+    - [4. OpenTelemetry Go](#4-opentelemetry-go)
+    - [5. OpenTelemetry Java](#5-opentelemetry-java)
+    - [6. OpenTelemetry JavaScript](#6-opentelemetry-javascript)
+      - [6.1 By SigNoz:](#61-by-signoz)
+      - [6.2 Others:](#62-others)
+    - [7. OpenTelemetry PHP](#7-opentelemetry-php)
+    - [8. OpenTelemetry Python](#8-opentelemetry-python)
+      - [8.1 By SigNoz:](#81-by-signoz)
+      - [8.2 Others:](#82-others)
+    - [9. OpenTelemetry Ruby](#9-opentelemetry-ruby)
+    - [10. OpenTelemetry Rust](#10-opentelemetry-rust)
+    - [11. OpenTelemetry Swift](#11-opentelemetry-swift)
   - [Join the Community](#join-the-community)
     - [Newsletters 📰](#newsletters-)
     - [Podcasts](#podcasts)
@@ -347,12 +347,12 @@ Distributions and vendors who natively support OpenTelemetry in their commercial
 - [LightStep Opentelemetry Playlist 30 Videos](https://www.youtube.com/playlist?list=PLv9DlQuUaXQc7PWxyGuJJnHE856zJYpse)
 
 
-### OpenTelemetry C++
+### 1. OpenTelemetry C++
 - [Opentelemetry C/C++ SIG Playlist](https://www.youtube.com/playlist?list=PLVYDBkQ1TdyyldLnfc3kHRVYaj1AomFNy)
 - [OpenTelemetry 2019-10-21 C++ SIG meeting](https://www.youtube.com/watch?v=5TVtrpMEj1E)
 
 
-### OpenTelemetry .NET
+### 2. OpenTelemetry .NET
 - [OpenTelemetry .NET SIG Playlist](https://www.youtube.com/playlist?list=PLVYDBkQ1TdyyWZv3XVKuAFm5-FL1z2b3q)
 - [.NET - Monitor a .NET Application with OpenTelemetry and SigNoz](https://www.youtube.com/watchv=9SwL5kMDcvY)
 - [OpenTelemetry with Minimal APIs in .NET 6](https://www.youtube.com/watch?v=djLCqEzf72o)
@@ -364,12 +364,12 @@ Distributions and vendors who natively support OpenTelemetry in their commercial
 - [Metrics in .NET has never been easier - OpenTelemetry](https://www.youtube.com/watch?v=Gx8zNOcQSm8)
   
 
-### OpenTelemetry Erlang/Elixir
+### 3. OpenTelemetry Erlang/Elixir
 - [Elixir - Monitor your Elixir Application with OpenTelemetry and SigNoz](https://www.youtube.com/watch?v=wLMrV-LtHFU)
 - [Monitoring Elixir With OpenTelemetry | Kamil Kowalski | ElixirConf EU 2021](https://www.youtube.com/watch?v=4OBtc_eIKIE)
   
 
-### OpenTelemetry Go
+### 4. OpenTelemetry Go
 - [OpenTelemetry Go SIG Playlist](https://www.youtube.com/playlist?list=PLVYDBkQ1Tdyw1JXfQkL7erhN4CpKNssV-)
 - [Go instrumentation - OpenTelemetry in Go applications : Complete Tutorial with SigNoz](https://www.youtube.com/watch?v=kTHW4VYnISQ&t=3s)
 - [OpenTelemetry Deep Dive: Golang](https://www.youtube.com/watch?v=yQpyIrdxmQc)
@@ -379,8 +379,9 @@ Distributions and vendors who natively support OpenTelemetry in their commercial
 - [Workshop: Getting started with OpenTelemetry and Distributed Tracing in Golang](https://www.youtube.com/watch?v=p73-PvchUl8)
 - [Distributed Tracing on Go using OpenTelemetry - Fahri Yardımcı - GopherCon Turkey 2020](https://www.youtube.com/watch?v=I7pQWjYl6nM)
 
+**[`^ back to top ^`](#contents)**
 
-### OpenTelemetry Java
+### 5. OpenTelemetry Java
 - [OpenTelemetry Java SIG Playlist](https://www.youtube.com/playlist?list=PLVYDBkQ1TdywnpttVBGlxxkzHMqhpmIev)
 - [Spring Boot - Monitor your Spring Boot Application with OpenTelemetry & SigNoz](https://www.youtube.com/watch?v=YxZb17_LYwQ)
 - [Monitor your Tomcat Java Application in 20 mins with OpenTelemetry & SigNoz](https://www.youtube.com/watch?v=4obQilMqU4E)
@@ -392,10 +393,10 @@ Distributions and vendors who natively support OpenTelemetry in their commercial
 - [Observability in Java Getting Started with OpenTelemetry](https://www.youtube.com/watch?v=tsaT4L3DF3Q)
 
 
-### OpenTelemetry JavaScript
+### 6. OpenTelemetry JavaScript
 - [OpenTelemetry JavaScript SIG Playlist](https://www.youtube.com/playlist?list=PLVYDBkQ1Tdyz-EZEjVRb3BX_s4jEgHaWd)
 
-#### By SigNoz:
+#### 6.1 By SigNoz:
 - [Angular Instrumentation - Monitor your Angular application with Opentelemetry and SigNoz](https://www.youtube.com/watch?v=g-I-v1FtMoM&list=PL0N8FjJpzGl_VLU-PedUdnWXUybA90pcP&index=3)
 - [React Instrumentation - Implementing OpenTelemetry in React applications | Tutorial](https://www.youtube.com/watch?v=IsOQxc3wqyc&list=PL0N8FjJpzGl_VLU-PedUdnWXUybA90pcP&index=5)
 - [NestJS - Monitoring your NestJS Application using OpenTelemetry and SigNoz](https://www.youtube.com/watch?v=tpNDrJAjcto&list=PL0N8FjJpzGl_VLU-PedUdnWXUybA90pcP&index=9)
@@ -405,7 +406,7 @@ Distributions and vendors who natively support OpenTelemetry in their commercial
 - [NodeJs OpenTelemetry - Implementing Distributed Tracing in a NodeJS Application using OpenTelemetry](https://www.youtube.com/watch?v=CgByZJeuRZY&list=PL0N8FjJpzGl_VLU-PedUdnWXUybA90pcP&index=17)
 - [NextJS - Monitoring your NextJS application using OpenTelemetry and SigNoz](https://www.youtube.com/watch?v=sC1xNIcItTM&list=PL0N8FjJpzGl_VLU-PedUdnWXUybA90pcP&index=23)
 
-#### Others:
+#### 6.2 Others:
 - [OpenTelemetry 2019-10-23 JavaScript SIG](https://www.youtube.com/watch?v=JOgSzSPt-F0)
 - [Workshop: Getting Started with OpenTelemetry in Javascript with Express and React](https://www.youtube.com/watch?v=RhVXCpEKMkg)
 - [Tutorial: OpenTelemetry Node.js Instrumentation in 5 Minutes](https://www.youtube.com/watch?v=n-Ar0nnho3s)
@@ -416,15 +417,18 @@ Distributions and vendors who natively support OpenTelemetry in their commercial
   
 
 
-### OpenTelemetry PHP
+### 7. OpenTelemetry PHP
 - [OpenTelemetry PHP SIG Playlist](https://www.youtube.com/playlist?list=PLVYDBkQ1Tdyw5ccPWGur1s2Ohnt9f6eEO)
 - [PHP - Monitoring a PHP application with OpenTelemetry and SigNoz](https://www.youtube.com/watch?v=BhoVFt9z5wk)
 
-### OpenTelemetry Python
+**[`^ back to top ^`](#contents)**
+
+
+### 8. OpenTelemetry Python
 - [OpenTelemetry Python SIG Playlist](https://www.youtube.com/playlist?list=PLVYDBkQ1TdyzMaMC7Rqr7dLRISyhtU7hR)
 
 
-#### By SigNoz:
+#### 8.1 By SigNoz:
 - [Python Instrumentation - Monitor your Python application using OpenTelemetry and SigNoz](https://www.youtube.com/watch?v=oZkFfMN57yI)
 - [FastAPI - Monitoring your FastAPI Application using OpenTelemetry with SigNoz](https://www.youtube.com/watch?v=R2VX2T1WB-I)
 - [Flask OpenTelemetry - Monitoring your Flask application using OpenTelemetry](https://www.youtube.com/watch?v=_URJaj0dYz8&list=PL0N8FjJpzGl_VLU-PedUdnWXUybA90pcP&index=18&)
@@ -432,7 +436,7 @@ Distributions and vendors who natively support OpenTelemetry in their commercial
 - [Falcon - Monitoring apps based on Falcon Web Framework with OpenTelemetry](https://www.youtube.com/watch?v=ntW_3t5J34g&list=PL0N8FjJpzGl_VLU-PedUdnWXUybA90pcP&index=24)
   
 
-#### Others:  
+#### 8.2 Others:  
 - [Getting Started with OpenTelemetry in Python](https://www.youtube.com/watch?v=WS-iDN2BOMs)
 - [Getting Started with OpenTelemetry and Distributed Tracing in Python](https://www.youtube.com/watch?v=0ANtbk5fNbI)
 - [OpenTelemetry and Distributed Tracing in Python](https://www.youtube.com/watch?v=tmoCZHUOUgc)
@@ -445,14 +449,14 @@ Distributions and vendors who natively support OpenTelemetry in their commercial
 
 
 
-### OpenTelemetry Ruby
+### 9. OpenTelemetry Ruby
 - [OpenTelemetry Ruby SIG Playlist](https://www.youtube.com/playlist?list=PLVYDBkQ1Tdywzk5WGUYE2wJuzyrOCBBdz)
 - [Ruby - Tracing a Ruby application with OpenTelemetry for performance monitoring](https://www.youtube.com/watch?v=sNMIyQh7Oyo)
 - [OpenTelemetry for Rubyists by Francis Wang](https://www.youtube.com/watch?v=0XIB9KF9w2w)
 
 
 
-### OpenTelemetry Rust 
+### 10. OpenTelemetry Rust 
 
 - [Rust - Implementing OpenTelemetry in a Rust application for performance monitoring](https://www.youtube.com/watch?v=yPt1Pc3_tls) 
 - [Rust Dublin July 2021 - OpenTelemetry and Rust](https://www.youtube.com/watch?v=DURrAo9lPFA)
@@ -461,8 +465,10 @@ Distributions and vendors who natively support OpenTelemetry in their commercial
 - [OpenTelemetry for Rust Developers](https://www.youtube.com/watch?v=JNZoo_8XeaE)
 
 
-### OpenTelemetry Swift
+### 11. OpenTelemetry Swift
 - Did not find any videos. 
+
+**[`^ back to top ^`](#contents)**
 
 --- 
 
